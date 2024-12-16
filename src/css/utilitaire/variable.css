@@ -1,0 +1,16 @@
+:root{/* Color styles */
+--noir: rgba(0, 0, 0, 1);
+--blanc: rgba(255, 255, 255, 1);
+--bleu-logo: rgba(75, 67, 188, 1);
+--rouge-logo: rgba(255, 0, 0, 1);
+--gris-clair: rgba(216, 215, 215, 1);
+--fond: rgba(238, 238, 238, 1);
+--sous-titre-photo: rgba(163, 157, 157, 1);
+
+
+--header-1: 24px;
+--menu: 24px;
+--texte-card: 13px;
+--header-2: 16px;
+--body-1: 14px;
+}
