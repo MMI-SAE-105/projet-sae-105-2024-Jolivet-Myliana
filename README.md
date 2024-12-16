@@ -3,8 +3,8 @@
 
 À compléter :
 
-- NOM :
-- PRÉNOM :
-- GROUPE :
-- URL du site :
+- NOM : Jolivet
+- PRÉNOM : Myliana
+- GROUPE : B2
+- URL du site : https://stately-centaur-b7cbb3.netlify.app
 - URL FIGMA :
